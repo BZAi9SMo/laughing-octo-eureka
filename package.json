@@ -1,0 +1,19 @@
+{
+  "name": "node-ws-test",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+  },
+  "dependencies": {
+    "express": "^4.4.5",
+    "pg": "6.1.0",
+    "websocket": "1.0.23",
+    "ws": "0.4.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
