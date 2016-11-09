@@ -2,7 +2,7 @@
   "name": "node-ws-test",
   "version": "0.0.1",
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "dependencies": {
     "express": "^4.4.5",
